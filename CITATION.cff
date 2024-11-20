@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code or repository, please cite it as below."
+authors:
+  - family-names: "Sinha"
+    given-names: "Ankur"
+    affiliation: "Indian Institute of Management Ahmedabad"
+    orcid: "0000-0002-0464-6736"
+  - family-names: "Gunwal"
+    given-names: "Satender"
+    affiliation: "University of Illinois Chicago"
+    orcid: "0000-0002-0780-1762"
+  - family-names: "Kumar"
+    given-names: "Shivam"
+    affiliation: "Indian Institute of Management Ahmedabad"
+title: "A Globally Convergent Gradient-based Bilevel Hyperparameter Optimization Method"
+version: "1.0.0"
+date-released: "2024-11-20"
+repository-code: "https://github.com/SGunwal/Bilevel_Hyperparameter_Optimization"
