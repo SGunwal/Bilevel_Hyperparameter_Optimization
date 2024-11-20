@@ -65,12 +65,8 @@ Root Directory
 
 If you use this study, please cite below:
 
-@misc{sinha2023globallyconvergentgradientbasedbilevel,
-    title={A Globally Convergent Gradient-based Bilevel Hyperparameter Optimization Method}, 
-    author={Ankur Sinha and Satender Gunwal and Shivam Kumar},
-    year={2023},
-    eprint={2208.12118},
-    archivePrefix={arXiv},
-    primaryClass={cs.LG},
-    url={https://arxiv.org/abs/2208.12118}, 
-}
+Sinha, A., Gunwal, S., & Kumar, S. (2023). A Globally Convergent Gradient-based Bilevel Hyperparameter Optimization Method. arXiv preprint arXiv:2208.12118. Retrieved from https://arxiv.org/abs/2208.12118
+
+Repository Citation:
+
+Sinha, A., Gunwal, S., & Kumar, S. (2024). A Globally Convergent Gradient-based Bilevel Hyperparameter Optimization Method (Version 1.0.0) [Computer software]. https://github.com/SGunwal/Bilevel_Hyperparameter_Optimization
